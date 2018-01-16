@@ -7,6 +7,7 @@
         {
 		  "verify": false,
 		  "date":"2018-08-19T12:12:12",
+          "type":,
             "id": 4,
             "first_name": "Eve",
             "last_name": "Holt",
@@ -15,6 +16,7 @@
         {
             "verify" : true,
             "date":"2018-07-19T12:12:12",
+            "type":2,
             "id": 5,
             "first_name": "Charles",
             "last_name": "Morris",
@@ -23,6 +25,7 @@
         {
             "verify" : true,
             "date":"2018-11-19T12:12:12",
+            "type":5,
             "id": 6,
             "first_name": "Tracey",
             "last_name": "Ramos",
