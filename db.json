@@ -21,6 +21,8 @@
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
         },
         {
+            "verify" : true,
+            "date":"2018-12-19T12:12:12",
             "id": 6,
             "first_name": "Tracey",
             "last_name": "Ramos",
