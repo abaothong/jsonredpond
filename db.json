@@ -23,7 +23,6 @@
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
         },
         {
-            "verify" : true,
             "date":"2018-11-19T12:12:12",
             "type":5,
             "id": 6,
